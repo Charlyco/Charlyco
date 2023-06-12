@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Charlyco
-- 👀 I’m interested in Mobile Applications Development, Scientific and Engineering software(using C++) and Embedded systems 
-- 🌱 I’m currently learning C++ and Kotlin
-- 💞️ I’m looking to collaborate on Mathematical and Scientific research, Mobile development and Embedded systems projects. 
+- 👀 I’m a software Engineer focusing on Mobile Applications Development and Java/Springboot.
+- 🌱 I specialise in Android Application Developement usinj Java, Kotlin and Jetpack Compose.
+- 🌱 I’m hope to transition into writing Springboot code in Kotlin.
+- 💞️ I’m open to contribute in any viable open source projects within my domain. 
 - 📫 How to reach me: limitless6907@hotmail.com, +2347037590923(available on whatsapp too),charlyco835@gmail.com 
 
 <!---
