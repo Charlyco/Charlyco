@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Charlyco
-- 👀 I’m a software Engineer focusing on Mobile Applications Development and Java/Springboot.
-- 🌱 I specialise in Android Application Developement usinj Java, Kotlin and Jetpack Compose.
-- 🌱 I’m hope to transition into writing Springboot code in Kotlin.
+- 🌱 Mid-level Android Application Developement using Java, Kotlin, XLM and Jetpack Compose.
+- 🌱 Mid-level backend developer focusing on Java/Springboot
 - 💞️ I’m open to contribute in any viable open source projects within my domain. 
 - 📫 How to reach me: limitless6907@hotmail.com, +2347037590923(available on whatsapp too),charlyco835@gmail.com 
 
