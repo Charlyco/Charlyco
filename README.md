@@ -1,8 +1,11 @@
 - 👋 Hi, I’m @Charlyco
 - 🌱 3+ Professional Experience in Mobile Application Developement using Kotlin, Jetpack Compose XML and Flutter.
 - 🌱 2+ years of experience as backend developer focusing on Java/Springboot.
-- I have extensive experience in the following tools:
--  - Kafka
+- I have extensive experience in the following tools and technologies:
+-  - Springboot
+   - Microservices,
+   - Docker,
+   - Kafka
    - Git
    - Mysql
    - Agora SDK
